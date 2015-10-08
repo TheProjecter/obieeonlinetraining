@@ -1,0 +1,187 @@
+Data warehousing overview
+
+Basics of Data Warehousing
+
+What is OLTP and OLAP?
+
+Difference between OLTP and OLAP
+
+Advantages of OLAP
+
+What is Data Marts and ODS?
+
+Dimensional Modeling Overview
+
+1.Introduction to Dimensional Modeling
+
+2.What are Facts and Dimensions?
+
+3.Star schema and Snowflake schema
+
+Introduction to Business Intelligence
+
+What is Business Intelligence
+
+Where BI tools are Used
+
+Why the Oracle Business Intelligence
+
+1.Advantages
+
+2.Architecture, Components
+
+3.Clients – Answers, Delivers, Dashboards and Web administration
+
+4.Servers- Oracle BI server, Presentation, Scheduler server
+
+
+Server Architecture
+
+Repository Basics
+
+1.What is Meta data?
+
+2.Creating a Repository using BI Administration Tool
+
+3.Physical, Business Model and Mapping, and presentation layers
+
+4.Properties of repository objects
+
+Building Physical Layer of a Repository
+
+1.Objects of Physical Layer
+
+2.DSN for a data sources
+
+3.Build physical layer
+
+Building business Model mapping layer
+
+1.Objects of BMM layer
+
+2.Building Business model (creating logical tables, columns, joins)
+
+3.Creating simple measures
+
+Building presentation layer
+
+1.Objects of presentation layer
+
+2.Properties of the presentation layer
+
+3.Build presentation layer
+
+Testing and validating Repository
+
+1.Checking repository consistency
+
+2.Checking Global Consistency
+
+3.Inspecting Oracle Answers inspecting SQL
+
+4.Inspecting log files(Nqquery.log,NQSserver.log)
+
+Adding multiple sources to dimension
+
+1.De-normalizing tables structures in database design
+
+2.Adding multiple sources to existing logical tables source
+
+3.Adding second table sources
+
+Adding calculations to fact
+
+1.Calculation measures on the basis of physical and logical columns
+
+2.Using Calculation wizard
+
+Creating dimensional hierarchies and level based measures
+
+1.Creating dimensional hierarchies
+
+2.Use level based measures
+
+3.Create Rank and Share measures
+
+Using aggregation
+
+1.Importing Aggregated Tables into Repository
+
+2.Modeling aggregate tables to speed processing
+
+Using variables
+
+1.Presentation Variables
+
+2.Repository variables
+
+3.Session variables
+
+4.Initialization Blocks
+
+Multiuser Environment (MUD)
+
+1.Overview on Multiuser Environment (MUD)
+
+2.How to create projects in MUD
+
+3.Checkout and checkin of projects
+
+Modeling time series data
+
+1.Types of SCDS
+
+
+2.Using of time series functions
+
+Modeling extension tables
+
+1.Purposes of extension tables
+
+2.Modeling extension tables for fact and dimensions
+
+Oracle BI Security
+
+1.Security at object and data level
+
+2.Creating users and User groups
+
+3.Assigning permissions to users
+
+4.Setting Query limits and timing restrictions
+
+5.Authenticating using an external database
+
+Cache management
+
+1.Purge cache and event handling tables
+
+2.Making the table cacheable
+
+3.Setting of cache in NQSCONFIG.INI file
+
+Oracle BI Presentation services
+
+Working with Oracle BI Answers
+
+1.Building Busines Requests usiing Answers
+
+2.Adding filters to Business requests
+
+3.Adding Column Filter Prompts in Answers
+
+4.Views and charts in requests
+
+Creating Oracle Intelligence Dashboards
+
+1.Creating dashboard pages using report requests
+
+2.Creating dashboard prompts
+
+3.Configuring guided navigation links
+
+4.Adding content to dashboard
+
+5.Conditional links and conditional section
+
+OBIEE Online Training and with Free Live Demo Register Here For more info: http://obieetraining.com
